@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "xlocale": "cpp",
+        "xlocnum": "cpp"
+    },
+    "C_Cpp.dimInactiveRegions": false,
+    "C_Cpp.intelliSenseCacheSize": 64
+}
